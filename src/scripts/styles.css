@@ -1,6 +1,5 @@
 body {
     background: fixed;
-    color: aqua;
-    font: 1em sans-serif;
-    inline-size: none;
+    height: 0%;
+    background-color: #030F0F
 }
